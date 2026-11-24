@@ -5,7 +5,7 @@ import { join } from "node:path";
 // The pride is earned inside the line by the slow work of tuning by ear, and it
 // arrives with the very last word — the cat never opening an eye.
 const LINE =
-  "She tuned the old piano by ear, string by string, until middle C held, and the cat asleep on the keys never opened an eye.";
+  "Three evenings, by ear, string by string, she tuned the old piano true; the cat on its lid slept through her first perfect chord, and she bowed to it anyway.";
 
 const OUT_DIR = "/output";
 mkdirSync(OUT_DIR, { recursive: true });
